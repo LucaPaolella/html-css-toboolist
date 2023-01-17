@@ -56,3 +56,13 @@ hr {
     color: lightgray;
 }
 /*fine main*/
+li{
+    list-style-type: none;
+}
+
+.task{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
