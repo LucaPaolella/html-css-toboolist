@@ -21,11 +21,37 @@ header{
 
 /*Inizio main*/
 .container{
-    height: 1000px;
-    color: blue;
-    margin-top: 5%;
-    margin-left:15%;
-    margin-right: 15% ;
-    margin-bottom: 5% ;
+  width: 65%;
+  margin: auto;
+  margin-top: 2%;
+  padding-bottom: 5%;
+  padding: auto;
+  background-color: white;
+  border: 1px solid lightgray; 
+  border-radius: 5%;
+}
+
+.bottone{
+  border: 1px solid;
+  border-radius: 10%;
+  padding: 15px;
+  margin-top: 15px;
+ 
+}
+
+.blu {
+  background-color: #47ADF1;
+  color: white;
+  margin-left: 100px;
+
+}
+
+.grigio{
+  background-color: white;
+  color: lightgray;
+}
+
+hr {
+    color: lightgray;
 }
 /*fine main*/
