@@ -2,6 +2,7 @@
 
 body{
     background-color: #F6F8F9;
+    margin: 0px;
 }
 /*Inizio header*/
 header{
@@ -73,7 +74,7 @@ li{
     border-radius: 50%;
     display: inline-block;
     padding-bottom: 5px;
-    padding-left: 5px;
+    text-align:center
 }
 
 .nope{
@@ -83,7 +84,8 @@ li{
     border-radius: 50%;
     display: inline-block;
     padding-bottom: 5px;
-    padding-left: 5px;
+    text-align:center
+
 }
 
 .sales{
